@@ -8,11 +8,11 @@ this application serves to monitor websites and generate logs. it visualizes if 
 <br>
 
 ```
-git clone 
+git clone https://github.com/juannunesz/web-monitor.git
 ```
 
 ```
-cd 
+cd web-monitor
 ```
 
 ```
